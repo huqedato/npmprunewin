@@ -9,8 +9,8 @@ It helps in reducing the overall size of `node_modules`, optimizing storage spac
 By detecting `NODE_ENV`, it can perform a more aggressive cleanup, tailored for production builds such as in Docker containers.
 
 1. [Install](#install)
-2. [Usage (Unix/Linux)](#usage)
-3. [Usage (Windows)](#usage)
+2. [Usage (Unix/Linux)](#usage-linux)
+3. [Usage (Windows)](#usage-windows)
 4. [Integration](#integration)
    - [In deployment scripts](#in-deployment-scripts)
    - [In a Dockerfile](#in-a-dockerfile)
